@@ -1,5 +1,5 @@
 {
-    "name": "packagetesting",
+    "name": "ankit-bansal-bs/packagetesting",
     "require": {
         "twig/twig": "1.13.*"
     }
