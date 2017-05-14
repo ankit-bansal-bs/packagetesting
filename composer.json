@@ -1,6 +1,7 @@
 {
     "name": "ankit-bansal-bs/packagetesting",
     "require": {
+        "monolog/monolog": "1.0.*",
         "twig/twig": "1.13.*"
     }
 }
